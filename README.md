@@ -6,10 +6,10 @@ A high-performance, simple, portable rbtree (Red-Black Tree) using ANSI C
 
 - No dependence
 - ~400 LOC
-- Very easy to use, just four functions
+- Very easy to use
+- Full interfaces
 
 ## Getting Started
-
 
 ### jv_rbtree_main.c
 
